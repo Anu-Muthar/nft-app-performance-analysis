@@ -1,4 +1,4 @@
-# NFT App Performance – Data Analyst Case Study
+# NFT App Performance – My Case Study
 
 ##  Objective
 To analyze user behavior, NFT category performance, transaction patterns, and retention metrics in an NFT purchasing app. The goal is to uncover insights that can help improve user engagement, boost NFT sales, and guide marketing efforts.
